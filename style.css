@@ -474,15 +474,15 @@ html, body {
   height: 230px;
 }
 .section__logo img {
-  width: 100px;
-  height: 100px;
+  width: 6.5vw;
+  height: 12vh;
   margin: 0;
 }
 .section__logo h3 {
   font-size: 18px;
   line-height: 26px;
   font-weight: 700;
-  margin: 25px;
+  margin: 5%;
   color: #000;
 }
 .section__logo p {
